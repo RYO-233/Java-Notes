@@ -26,11 +26,20 @@
 
 ## JRE 简介
 
-> 1) JRE(Java Runtime Environment Java 运行环境) 
+> 1) JRE(Java Runtime Environment：Java 运行环境) 
 >
 >     **JRE = JVM + Java 的核心类库(类)**
 >
-> 2) 包括 Java 虚拟机(JVM Java Virtual Machine) 和 Java 程序所需的核心类库等，如果想要运行一个开发好的 Java 程序，计算机中只需要安装 JRE 即可。
+> 2. JRE 是运行 Java 已编译程序所需要的必要软件环境。
+>     包括 Java 虚拟机(JVM Java Virtual Machine) 和 Java 程序所需的核心类库等。
+>     如果想要运行一个开发好的 Java 程序，计算机中只需要安装 JRE 即可。
+
+## JVM 简介
+
+> 1. JVM(Java Virtual Machine：Java 虚拟机)
+> 2. JVM 用来运行 Java 字节码文件(.class)。
+> 3. JVM 是 Java 跨平台的关键。
+>     因为其屏蔽了不同操作系统之间的差异，可以让相同的 Java 程序在不同的操作系统中，运行得到相同的结果。
 
 ## JDK、JRE 和 JVM 的包含关系 
 

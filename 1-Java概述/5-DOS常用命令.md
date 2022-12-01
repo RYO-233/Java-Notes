@@ -4,7 +4,7 @@
 
 ## DOS 简介
 
-> ​	DOS(Disk Operating System)：磁盘操作系统
+> ​	DOS(Disk Operating System): 磁盘操作系统
 >
 > ​	简单了解下 Windows 的目录结构（原理图）。
 
